@@ -35,3 +35,4 @@
 SDK/Head/*.h
 SDK/Lib/*.lib
 x64
+.vscode
