@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+.vs
+SDK/Head/*.h
+SDK/Lib/*.lib
+x64
